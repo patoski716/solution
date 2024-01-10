@@ -1,0 +1,23 @@
+
+/* for mobile */
+@media screen and (max-width: 767px) {
+.cap{
+    display: none;
+}
+.content{
+    text-align: center;
+}
+h1{
+    font-size: 32px;
+}
+
+}
+
+/* for laptop */
+@media only screen and (min-width: 768px) {
+    .pap{
+        display: none;
+        
+    }
+    
+}
